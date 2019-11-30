@@ -1,7 +1,0 @@
-{
-  "name": "dgpc",
-  "integrations": {
-    "cordova": {}
-  },
-  "type": "ionic-angular"
-}
